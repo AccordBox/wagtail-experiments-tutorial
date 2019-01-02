@@ -5,6 +5,7 @@ django-el-pagination==3.1.0
 Markdown==2.6.2
 Pygments
 wagtailmenus==2.8
+wagtail-experiments==0.2
 django-widget-tweaks==1.4.2
 isort==4.3.4
 flake8==3.5.0

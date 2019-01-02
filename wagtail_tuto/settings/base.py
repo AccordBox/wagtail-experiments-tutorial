@@ -54,6 +54,7 @@ INSTALLED_APPS = [
     'el_pagination',
 
     'wagtail.contrib.modeladmin',  # Don't repeat if it's there already
+    'experiments',
     'wagtailmenus',
 
     'home',
